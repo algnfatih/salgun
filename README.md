@@ -1,2 +1,2 @@
 # salgun
-süleyman algün - ön yüz
+babamın köşe yazıları için hazırladığım web sitesi.
